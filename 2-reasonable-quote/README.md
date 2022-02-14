@@ -1,4 +1,4 @@
-# ElectronicText
+# Reasonable Quote
 
 Quotes and proverbs are commonly misread by people since they are just short conclusive sentences without context, but we are inclined to guess the meaning and find reasonable explanations for them. Cut-up poetry is constructed by words or sentences from unknown places and does not need to provide the background. So I treat the quote as an element of cut-up poetry and generate relevant content for it as supplemental material. After all, it’s better than giving no context, right?  lol
 
