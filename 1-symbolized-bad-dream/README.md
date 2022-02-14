@@ -9,4 +9,5 @@ Dreams are full of random symbols, it is in the same nature as a randomized poet
 
 The rhetoric I choose is called **Chiasmus** with a structure basically symmetrical like a ring. Chiastic narrative techniques are commonly adopted in classical prose such as *Histories of Herodotus.* But there’s another similar rhetoric called **Antimetabole** with an A-B-B-A structure that we may be confused with.
 
+
 blog link : https://jumbled-marmoset-78e.notion.site/reading-and-writing-electronic-text-week1-zoecai-ff727e5cd2ce49a1bfdd05d9840a0a42
